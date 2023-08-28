@@ -1,0 +1,14 @@
+C:\DIEGOREPO\Helloworld_dot_net\bin\Debug\net7.0\Helloworld_dot_net.exe
+C:\DIEGOREPO\Helloworld_dot_net\bin\Debug\net7.0\Helloworld_dot_net.deps.json
+C:\DIEGOREPO\Helloworld_dot_net\bin\Debug\net7.0\Helloworld_dot_net.runtimeconfig.json
+C:\DIEGOREPO\Helloworld_dot_net\bin\Debug\net7.0\Helloworld_dot_net.dll
+C:\DIEGOREPO\Helloworld_dot_net\bin\Debug\net7.0\Helloworld_dot_net.pdb
+C:\DIEGOREPO\Helloworld_dot_net\obj\Debug\net7.0\Helloworld_dot_net.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIEGOREPO\Helloworld_dot_net\obj\Debug\net7.0\Helloworld_dot_net.AssemblyInfoInputs.cache
+C:\DIEGOREPO\Helloworld_dot_net\obj\Debug\net7.0\Helloworld_dot_net.AssemblyInfo.cs
+C:\DIEGOREPO\Helloworld_dot_net\obj\Debug\net7.0\Helloworld_dot_net.csproj.CoreCompileInputs.cache
+C:\DIEGOREPO\Helloworld_dot_net\obj\Debug\net7.0\Helloworld_dot_net.dll
+C:\DIEGOREPO\Helloworld_dot_net\obj\Debug\net7.0\refint\Helloworld_dot_net.dll
+C:\DIEGOREPO\Helloworld_dot_net\obj\Debug\net7.0\Helloworld_dot_net.pdb
+C:\DIEGOREPO\Helloworld_dot_net\obj\Debug\net7.0\Helloworld_dot_net.genruntimeconfig.cache
+C:\DIEGOREPO\Helloworld_dot_net\obj\Debug\net7.0\ref\Helloworld_dot_net.dll
